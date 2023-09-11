@@ -1,1 +1,18 @@
 my high school is nohata high school
+An oxidation-reduction (redox) reaction is a type of chemical reaction that involves a transfer of electrons between two species. An oxidation-reduction reaction is any chemical reaction in which the oxidation number of a molecule, atom, or ion changes by gaining or losing an electron. Redox reactions are common and vital to some of the basic functions of life, including photosynthesis, respiration, combustion, and corrosion or rusting.
+e oxidation state (OS) of an element corresponds to the number of electrons, e-, that an atom loses, gains, or appears to use when joining with other atoms in compounds. In determining the oxidation state of an atom, there are seven guidelines to follow:
+
+    The oxidation state of an individual atom is 0.
+    The total oxidation state of all atoms in: a neutral species is 0 and in an ion is equal to the ion charge.
+    Group 1 metals have an oxidation state of +1 and Group 2 an oxidation state of +2
+    The oxidation state of fluorine is -1 in compounds
+    Hydrogen generally has an oxidation state of +1 in compounds
+    Oxygen generally has an oxidation state of -2 in compounds
+    In binary metal compounds, Group 17 elements have an oxidation state of -1, Group 16 elements of -2, and Group 15 elements of -3.
+Determine the Oxidation States of each element in the following reactions:
+
+    Fe(s)+O2(g)⟶Fe2O3(g)
+
+Fe2+(aq)
+Ag(s)+H2S⟶Ag2S(g)+H2(g)
+
